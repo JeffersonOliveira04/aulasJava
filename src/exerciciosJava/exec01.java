@@ -1,5 +1,4 @@
 package exerciciosJava;
-
 import java.util.Scanner;
 
 public class exec01 {
