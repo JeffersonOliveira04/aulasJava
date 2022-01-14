@@ -4,7 +4,7 @@ public class variaveis {
 	
 			public static void main(String[] args) {
 		
-	    //convenção Java
+	    
 		int idade = 20;
 		String nome = "Jefferson";
 		String nomeDoMeuCachorro = "totó";
@@ -26,9 +26,9 @@ public class variaveis {
 		
 		// má prática
 		int a = 10;
-		String b = "Loiane";
+		String b = "jefferson";
 	}
 
 }
 
-}
+
