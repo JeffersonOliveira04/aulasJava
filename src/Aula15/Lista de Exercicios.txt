@@ -1,0 +1,18 @@
+01 Faça um progama que peça dois números e imprima o maior deles.
+02 Faça um progama que peça um valor e mostre na tela se o valor é 
+positivo ou negativo.
+03 Faça um progama que verifique se uma letra digitada é "F" ou "M".
+Conforme a letra escvrever: F - Feminino, M - Masculino, Sexo inválido.
+04 Faça um progama que verifique se uma letra digitada é vogal ou consoante.
+05 Faça um progama para leitura de duas notas parciais de um aluno.
+O progama deve calcular a média alcançada por aluno e apresentar:
+  A mensagem "Aprovado", se a média for maior ou igual a 7;
+  A mensagem "Reprovado", se a média for menor que sete;
+  A mensagem "Aprovado com Distinção", se a média for igual a dez.
+06 Faça um progama que leia três números e mostre o maior deles.
+07 Faça um progama que leia três números e mostre o maior e o menor deles.
+08 Faça um progama que pergunte o preço de três produtos e informe qual
+produto você deve comprar, sabendo que a decisão é sempre pelo mais barato.
+09 Faça um progama que pergunte em que turno você estuda. Peça para digitar
+"M-Matutino" ou "V-Vespertino" ou "N-Noturno". imprima a mensagem "Bom dia!", 
+"Boa tarde!" ou "Boa noite!" ou "Valor inválido!", conforme o caso.
