@@ -1,4 +1,4 @@
-package exerciciosJava;
+package Aula017.exerciciosJava;
 
 public class exerc04 {
 	public static void main(String[] args) {
@@ -14,8 +14,8 @@ public class exerc04 {
 			cont++;
 		}
 			
-			System.out.println("População A: " + popA);
-			System.out.println("População B: " + popB);
+			System.out.println("Populaï¿½ï¿½o A: " + popA);
+			System.out.println("Populaï¿½ï¿½o B: " + popB);
 			System.out.println("Qtd anos:    " + cont );
 			
 	}

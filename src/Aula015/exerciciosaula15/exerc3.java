@@ -1,4 +1,4 @@
-package Aula15.exerciciosaula15;
+package Aula015.exerciciosaula15;
 
 import java.util.Scanner;
 
@@ -15,7 +15,7 @@ public class exerc3 {
 		} else if (input.equalsIgnoreCase("m")) {
 			System.out.println("M - masculino");
 		} else {
-			System.out.println("Sexo inválido");
+			System.out.println("Sexo invï¿½lido");
 		}
 		
 

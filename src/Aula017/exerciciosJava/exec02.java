@@ -1,4 +1,4 @@
-package exerciciosJava;
+package Aula017.exerciciosJava;
 
 import java.util.Scanner;
 
@@ -12,17 +12,17 @@ public class exec02 {
 		String senha;
 		
 		do {
-			System.out.println("Entre com o nome de usuário:");
+			System.out.println("Entre com o nome de usuï¿½rio:");
 			nomeUser = scan.next();
 			
 			System.out.println("Entre com a senha:");
 			senha = scan.next();
 			
 			if (nomeUser.equalsIgnoreCase(senha)) {
-				System.out.println("Senha igual ao usuário, digite novamente:");
+				System.out.println("Senha igual ao usuï¿½rio, digite novamente:");
 			}else {
 				infoValidas = true;
-				System.out.println("Senha e usuário válidos.");
+				System.out.println("Senha e usuï¿½rio vï¿½lidos.");
 				
 			}
 		}while (!infoValidas);

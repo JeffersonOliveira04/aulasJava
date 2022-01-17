@@ -1,4 +1,4 @@
-package Aula15.exerciciosaula15;
+package Aula015.exerciciosaula15;
 
 import java.util.Scanner;
 
@@ -8,21 +8,21 @@ public class exerc6 {
         
         Scanner scan = new Scanner(System.in);
         
-        System.out.println("Entre com primeiro número:");
+        System.out.println("Entre com primeiro nï¿½mero:");
         int num1 = scan.nextInt();
         
-        System.out.println("Entre com segundo número:");
+        System.out.println("Entre com segundo nï¿½mero:");
         int num2 = scan.nextInt();
         
-        System.out.println("Entre com terceiro número:");
+        System.out.println("Entre com terceiro nï¿½mero:");
         int num3 = scan.nextInt();
         
         if (num1 >= num2 && num1 >= num3){
-            System.out.println("num1 é maior: " + num1);
+            System.out.println("num1 ï¿½ maior: " + num1);
         } else if (num2 >= num1 && num2 >= num3){
-            System.out.println("num2 é maior: " + num2);
+            System.out.println("num2 ï¿½ maior: " + num2);
         } else if (num3 >= num1 && num3 >= num2){
-            System.out.println("num3 é maior: " + num3);
+            System.out.println("num3 ï¿½ maior: " + num3);
         } 
     }
 

@@ -1,4 +1,4 @@
-package Aula15.exerciciosaula15;
+package Aula015.exerciciosaula15;
 
 import java.util.Scanner;
 
@@ -15,9 +15,9 @@ public class exerc1 {
 		int num2 = scan.nextInt();
 		
 		if (num1 > num2) {
-			System.out.println("O número 1 é maior que o número 2 " + num1);
+			System.out.println("O nï¿½mero 1 ï¿½ maior que o nï¿½mero 2 " + num1);
 		
-		}else { System.out.println("O número 2 é maior que o número 1 " + num2);
+		}else { System.out.println("O nï¿½mero 2 ï¿½ maior que o nï¿½mero 1 " + num2);
 
 	}
 

@@ -1,4 +1,4 @@
-package exerciciosJava;
+package Aula017.exerciciosJava;
 
 public class exerc06 {
 

@@ -1,4 +1,4 @@
-package exerciciosJava;
+package Aula017.exerciciosJava;
 
 import java.util.Scanner;
 
@@ -13,16 +13,16 @@ public class exerc07 {
 		
 		for (int i=0; i<5; i++) {
 			
-			System.out.println("Entre com um número:");
+			System.out.println("Entre com um nï¿½mero:");
 			num = scan.nextInt();
 			
 			if (num > maior) {
 				maior = num;
-				System.out.println("O número maior mudou:" + maior);
+				System.out.println("O nï¿½mero maior mudou:" + maior);
 			}
 			
 		}
-		System.out.println("O maior número digitado foi: " + maior);
+		System.out.println("O maior nï¿½mero digitado foi: " + maior);
 
 	}
 

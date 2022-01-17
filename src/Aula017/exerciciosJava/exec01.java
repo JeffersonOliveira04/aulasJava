@@ -1,4 +1,4 @@
-package exerciciosJava;
+package Aula017.exerciciosJava;
 import java.util.Scanner;
 
 public class exec01 {
@@ -15,9 +15,9 @@ public class exec01 {
 		
 		if (nota >=0 && nota <= 10) {
 			notaValida = true;
-			System.out.println("Você digitou: " + nota);
+			System.out.println("Vocï¿½ digitou: " + nota);
 		}else {
-			System.out.println("Nota inválida, digite novamente.");
+			System.out.println("Nota invï¿½lida, digite novamente.");
 		}
 		} while (!notaValida);
 		

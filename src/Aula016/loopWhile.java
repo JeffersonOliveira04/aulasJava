@@ -1,4 +1,4 @@
-package Aula16;
+package Aula016;
 
 public class loopWhile {
 	
@@ -7,7 +7,7 @@ public class loopWhile {
 		int i = 1; //count ou cont
 		int max = 10;
 		
-		System.out.println("Contando até " + max);
+		System.out.println("Contando atï¿½ " + max);
 		
 		while (i <= max) {
 			System.out.println("Valor de i: " + i);

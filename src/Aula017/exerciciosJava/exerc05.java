@@ -1,4 +1,4 @@
-package exerciciosJava;
+package Aula017.exerciciosJava;
 
 import java.util.Scanner;
 
@@ -19,14 +19,14 @@ public class exerc05 {
 		do {
 			
 			
-			System.out.println("Entre com a populaçao A:");
+			System.out.println("Entre com a populaï¿½ao A:");
 			popA = scan.nextDouble();
 			
 			
 			if (popA > 0 ) {
 				valido = true;
 			}else {
-		        System.out.println("População A precisa ser maior do que 0.");
+		        System.out.println("Populaï¿½ï¿½o A precisa ser maior do que 0.");
 			}
 			
 		
@@ -38,13 +38,13 @@ public class exerc05 {
 			
 			
 			
-			System.out.println("Entre com a populçao B:");
+			System.out.println("Entre com a populï¿½ao B:");
 			popB = scan.nextDouble();
 			
 			if (popB > 0 ) {
 				valido = true;
 			}else {
-				System.out.println("População B precisa ser maior do que 0.");
+				System.out.println("Populaï¿½ï¿½o B precisa ser maior do que 0.");
 			}
 			
 		}while (!valido);
@@ -54,7 +54,7 @@ public class exerc05 {
 		do {
 			
 			
-			System.out.println("Entre com a taxa de crescimento da população A:");
+			System.out.println("Entre com a taxa de crescimento da populaï¿½ï¿½o A:");
 			taxaA = scan.nextDouble();
 			
 			if (taxaA > 0 ) {
@@ -70,7 +70,7 @@ public class exerc05 {
 		do {
 			
 			
-			System.out.println("Entre com a taxa de crescimento da população B:");
+			System.out.println("Entre com a taxa de crescimento da populaï¿½ï¿½o B:");
 			taxaB = scan.nextDouble();
 			
 			if (taxaB > 0 ) {
@@ -91,8 +91,8 @@ public class exerc05 {
 			cont++;
 		}
 			
-			System.out.println("População A: " + popA);
-			System.out.println("População B: " + popB);
+			System.out.println("Populaï¿½ï¿½o A: " + popA);
+			System.out.println("Populaï¿½ï¿½o B: " + popB);
 			System.out.println("Qtd anos:    " + cont );
 	}
 

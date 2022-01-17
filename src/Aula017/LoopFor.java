@@ -1,4 +1,4 @@
-package Aula17;
+package Aula017;
 
 public class LoopFor {
 	
@@ -30,7 +30,7 @@ public class LoopFor {
 		
 		int soma = 0;
 		for (int i=1; i < 5; soma += i++);
-		System.out.println("O valor da soma é " + soma);
+		System.out.println("O valor da soma ï¿½ " + soma);
 		
 		for (int i=0; i < 5; i++) {
 			System.out.println("i tem valor: " + i);

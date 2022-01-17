@@ -1,4 +1,4 @@
-package Aula15.exerciciosaula15;
+package Aula015.exerciciosaula15;
 
 import java.util.Scanner;
 
@@ -6,13 +6,13 @@ public class exerc2 {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
-		System.out.println("Entre com um número:");
+		System.out.println("Entre com um nï¿½mero:");
 		int num = scan.nextInt();
 		
 		if (num >= 0) {
-			System.out.println("O número informado é positivo:");
+			System.out.println("O nï¿½mero informado ï¿½ positivo:");
 		}else {
-			System.out.println("O número informado é negativo:");
+			System.out.println("O nï¿½mero informado ï¿½ negativo:");
 		}
 
 

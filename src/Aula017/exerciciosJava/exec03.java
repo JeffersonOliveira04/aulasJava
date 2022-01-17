@@ -1,4 +1,4 @@
-package exerciciosJava;
+package Aula017.exerciciosJava;
 
 import java.util.Scanner;
 
@@ -22,7 +22,7 @@ public class exec03 {
 				infoValida = true;
 				
 		}else {
-				System.out.println("O nome precisa de no mínimo 3 caracteres.");
+				System.out.println("O nome precisa de no mï¿½nimo 3 caracteres.");
 				}
 	   }while(!infoValida);
 	
@@ -46,7 +46,7 @@ public class exec03 {
 			
 			do {
 				
-			System.out.println("Entre com salário:");
+			System.out.println("Entre com salï¿½rio:");
 			
 			salario = scan.nextDouble();
 				
@@ -54,7 +54,7 @@ public class exec03 {
 					infoValida = true;
 					
 			}else {
-					System.out.println("O salário precisa ser maior que 0:");
+					System.out.println("O salï¿½rio precisa ser maior que 0:");
 					}
 		   }while(!infoValida);
 			
@@ -92,10 +92,10 @@ public class exec03 {
 						}
 			   }while(!infoValida);
 			
-				System.out.println("As seguintes informações foram coletadas:");
+				System.out.println("As seguintes informaï¿½ï¿½es foram coletadas:");
 				System.out.println("Nome: " + nome); 
 				System.out.println("Idade: " + idade);
-				System.out.println("Salário: " + salario);
+				System.out.println("Salï¿½rio: " + salario);
 				System.out.println("Estado Civil: " + estadoCivil);
 	}
 

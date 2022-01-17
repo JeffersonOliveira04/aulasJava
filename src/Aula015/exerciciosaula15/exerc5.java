@@ -1,4 +1,4 @@
-package Aula15.exerciciosaula15;
+package Aula015.exerciciosaula15;
 
 import java.util.Scanner;
 
@@ -18,7 +18,7 @@ public class exerc5 {
         
         
         if (media == 10){
-            System.out.println("Aprovado com distinção");
+            System.out.println("Aprovado com distinï¿½ï¿½o");
         } else if (media >= 7){
             System.out.println("Aprovado");
         } else {

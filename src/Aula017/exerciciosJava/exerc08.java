@@ -1,4 +1,4 @@
-package exerciciosJava;
+package Aula017.exerciciosJava;
 
 import java.util.Scanner;
 
@@ -14,7 +14,7 @@ public class exerc08 {
 		
 		for (int i=0; i<5; i++) {
 		
-			System.out.println("Digite um número");
+			System.out.println("Digite um nï¿½mero");
 			num = scan.nextInt();
 			
 			soma +=num;
@@ -22,7 +22,7 @@ public class exerc08 {
 		
 		media = soma / 5;
 			System.out.println("Soma: " + soma);
-			System.out.println("Média: " + media);
+			System.out.println("Mï¿½dia: " + media);
 	}
 }
 		

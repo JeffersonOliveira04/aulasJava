@@ -1,4 +1,4 @@
-package aula11;
+package Aula011;
 
 public class VariaveisInteiras {
 	
@@ -12,10 +12,10 @@ public class VariaveisInteiras {
 		
 		long idade04 = 23;
 		
-		System.out.println("Valor variável idade01 = " + idade01);
-		System.out.println("Valor variável idade02 = " + idade02);
-		System.out.println("Valor variável idade03 = " + idade03);
-		System.out.println("Valor variável idade04 = " + idade04);
+		System.out.println("Valor variï¿½vel idade01 = " + idade01);
+		System.out.println("Valor variï¿½vel idade02 = " + idade02);
+		System.out.println("Valor variï¿½vel idade03 = " + idade03);
+		System.out.println("Valor variï¿½vel idade04 = " + idade04);
 
 	}
 
