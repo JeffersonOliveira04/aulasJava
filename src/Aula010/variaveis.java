@@ -1,4 +1,4 @@
-package aula10;
+package Aula 010;
 
 public class variaveis {
 	
