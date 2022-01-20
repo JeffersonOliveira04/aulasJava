@@ -1,4 +1,4 @@
-package aula13;
+package Aula013;
 
 public class OperadoresAritmeticos {
 
