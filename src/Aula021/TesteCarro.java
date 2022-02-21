@@ -17,17 +17,9 @@ public class TesteCarro {
 		
 		van.exibirAutonomia();
 		
-		Carro fusca = new Carro();
-		van.marca = "Volkswagen";
-		van.modelo = "Fusca";
-		van.numPassageiros = 4;
-		van.capCombustivel = 30;
-		van.consumoCombustivel = 0.15;
-		
-		System.out.println(fusca.marca);
-		System.out.println(fusca.modelo);
-		
-		fusca.exibirAutonomia();
+		double autonomia = van.obterAutonomia();
+		System.out.println("Autonomia do carro é: " + autonomia); 
+		System.out.println("Autonomia do carro é: " + van.obterAutonomia()); 
 
 	}
 
